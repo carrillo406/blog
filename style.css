@@ -1,0 +1,9 @@
+.cabecera{
+    background-color: blue;
+    color: white;
+    border: solid white;
+    width: 70%;
+    margin: 10px auto;
+    padding: 2px 10px;
+    text-align: left;
+}
